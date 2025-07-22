@@ -42,5 +42,5 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/employee_salary_prediction_using_ml.git
+git clone https://github.com/Akshat30903/employee_salary_prediction_using_ml.git
 cd employee_salary_prediction_using_ml
